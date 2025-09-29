@@ -16,7 +16,7 @@ Este repositorio reúne proyectos de **análisis de datos con Excel**, incluyend
 - **Hallazgos clave**:  
   - Los productos más rentables fueron *Household, Office Supplies y Cosmetics*.  
   - El producto con menor ingreso fue *Fruits*.  
-- 📂 [Ver archivo](./Pivot_Analysis.xlsx)  
+
 
 ---
 
@@ -26,7 +26,6 @@ Este repositorio reúne proyectos de **análisis de datos con Excel**, incluyend
   - Regresión lineal con las funciones `PENDIENTE`, `INTERSECCION.EJE`, `PRONOSTICO`.  
   - Visualización con gráfico de tendencia.  
 - **Resultado**: Se proyecta que en 2024 se venderán aproximadamente *X unidades*.  
-- 📂 [Ver archivo](./Predictive_Model.xlsx)  
 
 ---
 
@@ -34,7 +33,7 @@ Este repositorio reúne proyectos de **análisis de datos con Excel**, incluyend
 Cada proyecto incluye un **informe en Word**, estructurado en forma de pirámide (conclusiones > evidencias > datos).  
 Ejemplo: [Ver Informe](./Report.docx)  
 
----
+--
 
 ## 🛠️ Habilidades practicadas
 - Limpieza y validación de datos.  
