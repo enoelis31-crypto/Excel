@@ -1,0 +1,10 @@
+Producto,Beneficio por Unidad,Tiempo de Máquina (hrs),Mano de Obra (hrs),Costo por Unidad,Unidades Producidas
+A,50,2,3,20,0
+B,60,1,2,15,24
+C,40,3,1,10,32
+,,,,,
+Recurso,Uso Total de Recursos (Fórmula),Restricción (Máximo Disponible),,,
+Tiempo de Máquina (hrs),120,120,,,
+Mano de Obra (hrs),80,80,,,
+,,,,,
+Beneficio Total (Objetivo),2720,,,,
